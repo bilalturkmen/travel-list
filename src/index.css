@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.container {
+  width: min(48rem, 90%);
+  margin-inline: auto;
+}
