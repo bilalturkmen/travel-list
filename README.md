@@ -15,7 +15,7 @@ https://pizza-menux.netlify.app/
 - The input Value is trimmed to avoid adding items with only whitespace.
 - And i worked to provide a good user experience.
 
-![](./public/screenshott.png)
+![](./public/screenshot.png)
 
 ## 🎉 Build With:
 
