@@ -13,7 +13,7 @@ https://travel-listx.netlify.app/
 - The delete button is disabled when the "Packed" option is selected.
 - If the same word is entered, ignore the difference between uppercase and lowercase letters.
 - The input Value is trimmed to avoid adding items with only whitespace.
-- And i worked to provide a good user experience.
+- Some SVG icons were added as imported assets.
 
 ![](./public/screenshot.png)
 
