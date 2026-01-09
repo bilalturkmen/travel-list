@@ -3,7 +3,7 @@
 https://travel-listx.netlify.app/
 
 <div>
-  A project from a React JS training: This app that helps you decide what to pack for your travels
+  A project from a React JS training: This app that helps you decide what to pack for your travels.
 </div>
 
 ## 👍 My Challenges:
