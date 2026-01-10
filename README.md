@@ -21,6 +21,6 @@ https://travel-listx.netlify.app/
 
 - React JS + Tailwind CSS
 - Semantic HTML5 markup
-- Css Flexbox and Grid
+- CSS Flexbox and Grid
 - Mobile-first workflow
-- CSS custom properties
+- Custom CSS properties
